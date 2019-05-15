@@ -26,6 +26,7 @@ import java.util.logging.Logger;
 /**
  * A sample gRPC server that serve the RouteGuide
  * (see route_guide.proto) service.
+ * 服务端实现
  */
 public class RouteGuideServer {
   private static final Logger logger = Logger.getLogger(RouteGuideServer.class.getName());

@@ -20,6 +20,7 @@ import java.util.logging.Logger;
 
 /**
  * Sample client code that makes gRPC calls to the server.
+ * 客户端实现示例
  */
 public class RouteGuideClient {
   private static final Logger logger = Logger.getLogger(RouteGuideClient.class.getName());
